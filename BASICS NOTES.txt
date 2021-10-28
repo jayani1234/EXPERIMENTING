@@ -1,0 +1,28 @@
+Git  is a  distributed version control system. The Basics of Git and GitHub:
+ 
+Set Up Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+other commands
+git clone (url)
+git add (file names)
+git commit -m "(committed message)
+git push -u origin master
+git remote add origin master (url)
+
+Version Control ? - Version control systems are a category of software tools that help a software team manage changes to source code over time.
+What is GIT? - By far, the most widely used modern version control system in the world today is Git. Git is a mature, actively maintained open source project originally developed in 2005
+Why GIT? - Relying on software for mission-critical applications, altering your development workflow impacts your entire business. Git isn’t just for agile software development—it’s for agile business.
+
+Git Advantages 
+Resilience
+No one repository has more data than any other
+Speed
+Very fast operations compared to other VCS (I’m looking at you CVS and Subversion)
+Space
+Compression can be done across repository not just per file
+Minimizes local size as well as push/pull data transfers
+Simplicity
+Object model is very simple
+Large userbase with robust tools
